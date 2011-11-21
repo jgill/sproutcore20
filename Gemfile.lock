@@ -19,8 +19,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  execjs
-  multi_json
+  execjs (~> 1.2.6)
   rake
   sproutcore!
-  uglifier
+  uglifier (~> 1.0.3)
